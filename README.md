@@ -1,5 +1,5 @@
-# Pong-Game-DQN-PPO
-Comparison of Deep Q-Network and Proximal Policy Optimization on Simple Pong Environment
+# Pong-Game-DQN
+Analysis of Deep Q-Network algorithm on Simple Pong Environment
 
 ## State Representation
 I defined agent’s states like the following:
